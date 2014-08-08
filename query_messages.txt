@@ -1,0 +1,8 @@
+select m.message from message m
+  JOIN survey s ON m.conversation_id=s.conversation_id
+  JOIN survey_value sv ON sv.survey_id=s.id AND question_id=13
+  JOIN actor a ON m.actor_id = a.id
+WHERE
+  question_id=13 AND
+  a.type != 'Internal' AND
+  value LIKE '%{0}%';
