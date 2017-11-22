@@ -121,7 +121,7 @@ subprocess32==3.2.7
 sympy==1.1.1
 tensorflow==1.4.0
 tensorflow-tensorboard==0.4.0rc2
-terminado==0.6
+terminado==0.7
 testpath==0.3.1
 tornado==4.5.2
 traceback2==1.4.0
