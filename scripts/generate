@@ -1,3 +1,4 @@
+#!/bin/env python
 import MySQLdb
 import MySQLdb.cursors
 import nltk
