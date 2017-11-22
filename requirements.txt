@@ -1,0 +1,7 @@
+MySQLdb
+nltk
+string
+csv
+threading
+pickle
+config
