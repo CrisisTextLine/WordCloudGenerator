@@ -3,3 +3,4 @@ config.py
 build
 dist
 output
+WordCloudGenerator.egg-info
