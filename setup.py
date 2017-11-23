@@ -7,7 +7,7 @@ from setuptools import setup
 setup(
         name='WordCloudGenerator',
         license='MIT(?)',
-        version='1.0.0',
+        version='1.0.1',
         description='A tool to generate a word-cloud for a given issue.',
         author='Chris Johnson',
         url="https://crisistrends.org",
