@@ -137,4 +137,4 @@ wcwidth==0.1.7
 Werkzeug==0.12.2
 widgetsnbextension==3.0.7
 yarg==0.1.9
-youtube-dl==2017.10.15.1
+youtube-dl==2017.11.15
